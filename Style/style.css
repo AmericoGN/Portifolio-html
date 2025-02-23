@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box; 
+    background-color: #000000;
+    color: #fffbfb;
+}
+
+.titulo-destaque {
+    color: #22d4fd;
+}
+
+.apresentaçao {
+    margin: 10%;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+
